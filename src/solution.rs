@@ -386,4 +386,11 @@ impl Solution {
     }
 }
 
+// 12. Integer to Roman
+impl Solution {
+    pub fn int_to_roman(num: i32) -> String {
 
+        return "".to_string();
+
+    }
+}
